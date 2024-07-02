@@ -1,0 +1,9 @@
+.image-container {
+  background-image: url('../image/sunset-8569636_1920.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: fixed;
+  align-items: fixed;
+  justify-content: fixed;
+  color:black;
+}
