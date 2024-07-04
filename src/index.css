@@ -7,3 +7,15 @@
   justify-content: fixed;
   color:black;
 }
+
+
+.navigation {
+  background-color: #494955;
+  padding: 3px;
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  font-size: x-large;
+  text-decoration: none;
+  color: rgb(246, 232, 232);
+}
